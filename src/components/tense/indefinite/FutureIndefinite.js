@@ -35,6 +35,16 @@ const FutureIndefinite = () => {
           <p>তারা দরিদ্রতা দূর করবে।</p>
           <p>They will remove poverty.</p>
         </div>
+        <div>
+          <p>
+            আমরা আশাকরি যে, আমাদের সরকার আমাদের দেশ থেকে সন্ত্রাসবাদ দূর করতে
+            কিছু বাস্তবিক পদক্ষেপ গ্রহন করবে।
+          </p>
+          <p>
+            We hope that, our government will take some pragmatic steps to root
+            out terrorism from our country.
+          </p>
+        </div>
       </div>
     </div>
   );

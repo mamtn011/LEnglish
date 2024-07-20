@@ -28,6 +28,16 @@ const PresentPerfectContinuous = () => {
           <p>তারা সকাল থেকে চেষ্টা করছে।</p>
           <p>They have been trying since morning.</p>
         </div>
+        <div>
+          <p>
+            আমার ভাই একটি ভাল চাকরী পাওয়ার জন্য ৩ বছর যাবত ইংরেজি শিখার চেষ্টা
+            করছে।
+          </p>
+          <p>
+            My brother has been trying to learn English for 3 years to get a
+            good job.
+          </p>
+        </div>
       </div>
     </div>
   );

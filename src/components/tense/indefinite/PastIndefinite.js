@@ -36,6 +36,26 @@ const PastIndefinite = () => {
           <p>তারা দরিদ্রতা দূর করল।</p>
           <p>They removed poverty.</p>
         </div>
+        <div>
+          <p>
+            গ্রাম থেকে নিরক্ষরতা দূর করতে আমার বাবা আমাদের গ্রামে ১৯৭১ সালে একটি
+            স্কুল প্রতিষ্ঠা করেছিলেন।
+          </p>
+          <p>
+            My father established a school in our village in 1971 to remove
+            illiteracy from the village.
+          </p>
+        </div>
+        <div>
+          <p>
+            গতকাল রাত ৮ঃ৩০ মিনিটের দিকে ঢাকা কুষ্টিয়া মহাসরকে একটি ঢাকাগামী বাস
+            একটি কুষ্টিয়াগামী ট্রাকের সাথে মুখোমুখি সংঘর্ষ হয়েছিল।
+          </p>
+          <p>
+            A Dhaka-bound bus collided head-on with a Kushtia-bound truck on
+            Dhaka-Kushtia highway around 8:30 last night.
+          </p>
+        </div>
       </div>
     </div>
   );
