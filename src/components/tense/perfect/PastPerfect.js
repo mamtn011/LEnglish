@@ -6,27 +6,24 @@ const PastPerfect = () => {
         <div>
           <p className="font-bold py-2">Description:</p>
           <p className="py-2">
-            Subject কোন কাজ অতীতে শেষ করেছিল এবং এর এর ফল কিছু সময় ছিল বোঝালে
-            Past Perfect tense হয়। ।
+            অতীতে সংঘটিত হওয়া ২ টি কাজের মধ্যে যে কাজটি আগে সংঘটিত হয়েছিল তা
+            Past Perfect tense হয়। আর যে কাজটি পরে সংঘটিত হয়েছিল তা Past
+            Indefinite tense হয় ।
           </p>
           <p>Subject + had + v3 + Object</p>
         </div>
         <p className="font-bold">Examples:</p>
         <div>
-          <p>আমি খেয়েছিলাম।</p>
-          <p>I had eaten.</p>
+          <p>তিনি মারা যাওয়ার আগে স্কুলটি প্রতিষ্ঠা করেছিলেন।</p>
+          <p>He had established the school before he died.</p>
         </div>
         <div>
-          <p>সে শিখেছিল।</p>
-          <p>He had learnt.</p>
+          <p>ডাক্তার আসার পরে রুগী মারা গেল।</p>
+          <p>The patient died after the doctor had come.</p>
         </div>
         <div>
-          <p>তিনি দরিদ্রতা দূর করেছিলেন।</p>
-          <p>He had removed poverty.</p>
-        </div>
-        <div>
-          <p>আমার বাবা একটি স্কুল প্রতিষ্ঠা করেছিলেন।</p>
-          <p>My father had established a school.</p>
+          <p>রুগী মারা যাওয়ার পরে ডাক্তার আসলো।</p>
+          <p>The doctor came after the patient had died.</p>
         </div>
       </div>
     </div>
