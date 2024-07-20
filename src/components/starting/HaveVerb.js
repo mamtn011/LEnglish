@@ -1,22 +1,13 @@
-import React, { useState } from "react";
-
 const HaveVerb = () => {
-  const [isContentOpen, setIsContentOpen] = useState(false);
-
   return (
     <div className="w-full">
-      <button
-        className="btn-lesson"
-        onClick={() => setIsContentOpen(!isContentOpen)}
-      >
-        Have Verb
-      </button>
-      <div
-        className={`${isContentOpen ? "flex" : "hidden"}  flex-col gap-4 mb-6`}
-      >
+      <button className="btn-lesson">Have Verb</button>
+      <div className={`flex flex-col gap-4 mb-6`}>
         <div>
-          <p className="font-bold">Description:</p>
-          <p>Subject এর কোনকিছু আছে বা ছিল বোঝালে Have Verb বসে।</p>
+          <p className="font-bold py-2">Description:</p>
+          <p className="py-2">
+            Subject এর কোনকিছু আছে বা ছিল বোঝালে Have Verb বসে।
+          </p>
           <p>have / has = আছে</p>
           <p>had = ছিল</p>
         </div>

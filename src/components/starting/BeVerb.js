@@ -1,22 +1,11 @@
-import { useState } from "react";
-
 const BeVerb = () => {
-  const [isContentOpen, setIsContentOpen] = useState(false);
-
   return (
     <div className="w-full">
-      <button
-        className="btn-lesson"
-        onClick={() => setIsContentOpen(!isContentOpen)}
-      >
-        Be Verb
-      </button>
-      <div
-        className={`${isContentOpen ? "flex" : "hidden"}  flex-col gap-4 mb-6`}
-      >
+      <button className="btn-lesson">Be Verb</button>
+      <div className={`flex flex-col gap-4 mb-6`}>
         <div>
-          <p className="font-bold">Description:</p>
-          <p>
+          <p className="font-bold py-2">Description:</p>
+          <p className="py-2">
             Subject কোন কাজ না করে নিজেই কোনকিছু অথবা নিজেই কোথাও আছে বা ছিল
             বোঝালে Be Verb বসে।
           </p>
