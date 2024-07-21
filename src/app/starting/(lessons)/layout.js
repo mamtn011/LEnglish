@@ -1,6 +1,6 @@
 import LessonMenu from "@/components/common/LessonMenu";
 
-export default function RootLayout({ children }) {
+export default function BasicLayout({ children }) {
   const navItems = [
     { path: "/starting/be", label: "Be Verb" },
     { path: "/starting/have", label: "Have Verb" },

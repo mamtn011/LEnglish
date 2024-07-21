@@ -26,8 +26,8 @@ export default function Home() {
             </Link>
           </li>
           <li>
-            <Link href="/whq/what" className="nav-link hover:text-orange-500">
-              WH Questions
+            <Link href="/whq/who" className="nav-link hover:text-orange-500">
+              Wh Questions
             </Link>
           </li>
           <li>
