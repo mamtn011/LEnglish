@@ -36,7 +36,7 @@ const Who = () => {
           <p>Instead of (trusting) whom = কাকে/কাদেরকে বিশ্বাস করার পরিবর্তে</p>
           <p>At the time of (trusting) whom = কাকে/কাদেরকে বিশ্বাস করার সময়</p>
           <p>
-            In exchange of (trusting) whom = কাকে/কাদেরকে বিশ্বাস করার বিনিময়ে
+            In exchange for (trusting) whom = কাকে/কাদেরকে বিশ্বাস করার বিনিময়ে
           </p>
         </div>
         <p className="font-bold">Examples:</p>
