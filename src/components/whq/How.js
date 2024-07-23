@@ -1,6 +1,4 @@
-import React from "react";
-
-const WhoWhom = () => {
+const How = () => {
   return (
     <div className="w-full">
       <button className="btn-lesson">How</button>
@@ -177,4 +175,4 @@ const WhoWhom = () => {
   );
 };
 
-export default WhoWhom;
+export default How;

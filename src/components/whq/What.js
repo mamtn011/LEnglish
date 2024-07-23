@@ -1,13 +1,21 @@
 import React from "react";
 
-const WhoWhom = () => {
+const What = () => {
   return (
     <div className="w-full">
       <button className="btn-lesson">What</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>
-          <p className="py-2">What = কী / কোন / কত</p>
+          <div className="py-2">
+            <p>What = কী / কোন / কত ?</p>
+            <p>What day = কী বার ?</p>
+            <p>On what day = কী বারে ?</p>
+            <p>On what date = কয় তারিখে ?</p>
+            <p>At what time = কয়টা সময় ?</p>
+            <p>In what month = কোন মাসে ?</p>
+            <p>In what year = কত সালে ?</p>
+          </div>
           <p>What-family + auxiliary verb + subject + verb + object</p>
         </div>
         <p className="font-bold">Examples:</p>
@@ -222,9 +230,25 @@ const WhoWhom = () => {
           <p>কী ব্র্যান্ড এর শ্যাম্পু তুমি সবচেয়ে বেশী পছন্দ করো?</p>
           <p>What brand of shampoo do you like most?</p>
         </div>
+        <div>
+          <p>গতকাল কী বার ছিল?</p>
+          <p>What day was yesterday?</p>
+        </div>
+        <div>
+          <p>তুমি কী বারে আমার টাকা ফেরত দিবে?</p>
+          <p>On what day will you give back my money back?</p>
+        </div>
+        <div>
+          <p>তুমি কোন মাসে বিয়ে করেছিলে?</p>
+          <p>In what/which month did you marry?</p>
+        </div>
+        <div>
+          <p>বাংলাদেশ কত সালে স্বাধীন হয়েছিল?</p>
+          <p>In what year did Bangladesh become independent?</p>
+        </div>
       </div>
     </div>
   );
 };
 
-export default WhoWhom;
+export default What;

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Who = () => {
+const Whom = () => {
   return (
     <div className="w-full">
       <button className="btn-lesson">Whom</button>
@@ -110,4 +110,4 @@ const Who = () => {
   );
 };
 
-export default Who;
+export default Whom;
