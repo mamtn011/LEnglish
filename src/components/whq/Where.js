@@ -42,7 +42,9 @@ const Where = () => {
             যদি তোমার দূর্দিনে আমি তোমাকে সাহায্য না করতাম তবে তুমি আজ কী
             অবস্থায় থাকতে?
           </p>
-          <p>Where would you be now if I didn't help you in your rainy days?</p>
+          <p>
+            Where would you be now if I didn&apos;t help you in your rainy days?
+          </p>
         </div>
         <div>
           <p>তুমি কোত্থেকে এসেছ?</p>
@@ -158,12 +160,14 @@ const Where = () => {
         <div>
           <p className="text-blue-500">Whereto/Whereunto = যে জিনিসের প্রতি</p>
           <p>যে জিনিসের প্রতি সে ও তার মা অন্ধ, তা আমি জানিনা?</p>
-          <p>I don't know whereto/whereunto she and her mother are blind?</p>
+          <p>
+            I don&apos;t know whereto/whereunto she and her mother are blind?
+          </p>
         </div>
         <div>
           <p className="text-blue-500">Whereof = যে বিষয়ে</p>
           <p>যে বিষয়ে তারা কথা বলছে, তা আমি জানিনা?</p>
-          <p>I don't know whereof they are talking?</p>
+          <p>I don&apos;t know whereof they are talking?</p>
         </div>
         <div>
           <p className="text-blue-500">
@@ -172,7 +176,7 @@ const Where = () => {
           <p>
             আমার একটি ক্যামেরা কেনা দরকার কিন্তু আমার কাছে প্রয়োজনীয় অর্থ নেই?
           </p>
-          <p>I need to buy a camera but I don't have wherewithal?</p>
+          <p>I need to buy a camera but I don&apos;t have wherewithal?</p>
         </div>
       </div>
     </div>

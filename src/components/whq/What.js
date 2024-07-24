@@ -174,11 +174,11 @@ const What = () => {
         </div>
         <div>
           <p>নদীতে সাঁতার কাটতে কেমন লাগে?</p>
-          <p>What's it like swimming in the rever?</p>
+          <p>What&apos;s it like swimming in the rever?</p>
         </div>
         <div>
           <p>ইমরানের গান শুনতে কেমন লাগে?</p>
-          <p>What's it like listening to the songs of Imran?</p>
+          <p>What&apos;s it like listening to the songs of Imran?</p>
         </div>
         <div>
           <p>তোমার ব্যবসার খবর কী?</p>
@@ -190,7 +190,7 @@ const What = () => {
         </div>
         <div>
           <p>যদি তুমি চাকরীটা না পাও তবে কী হবে?</p>
-          <p>What if you don't get the job?</p>
+          <p>What if you don&apos;t get the job?</p>
         </div>
         <div>
           <p>বাংলাদেশ ম্যাচটা হেরে গেলে কী হবে?</p>
@@ -203,7 +203,8 @@ const What = () => {
         <div>
           <p>চাকরীটা সে না পেলেই বা কী? তার বাবার তো অনেক টাকা আছে। </p>
           <p>
-            What though he doesn't get the job? His father has lot of money.
+            What though he doesn&apos;t get the job? His father has lot of
+            money.
           </p>
         </div>
         <div>
@@ -212,7 +213,7 @@ const What = () => {
         </div>
         <div>
           <p>আমি জানি কিসে কী হয়।</p>
-          <p>I know what's what.</p>
+          <p>I know what&apos;s what.</p>
         </div>
         <div>
           <p>আমি জানি সে আমাকে ঘৃণা করে, তাতে কী?</p>

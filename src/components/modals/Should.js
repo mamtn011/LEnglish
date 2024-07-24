@@ -60,12 +60,26 @@ const Should = () => {
           <p>There should be some people here.</p>
         </div>
         <div>
-          <p>।</p>
-          <p>.</p>
+          <p>আমাদের চেয়ারম্যান এর উচিৎ আমাদের গ্রামকে দুর্নীতি মুক্ত করা।</p>
+          <p>Our chairman should make our village free from corruption.</p>
         </div>
         <div>
-          <p>।</p>
-          <p>.</p>
+          <p>
+            আমাদের সরকারের উচিৎ আমাদেশের লকজনের জন্য সমান অধিকার নিশ্চিত করা।
+          </p>
+          <p>
+            Our government should ensure equal rights for the people of our
+            country.
+          </p>
+        </div>
+        <div>
+          <p>
+            পরিবেশের ভারসাম্য রক্ষা করতে সরকারের উচিৎ ছিল দেশে অনেক গাছ লাগানো।
+          </p>
+          <p>
+            The government should have planted many trees in the country to
+            maintain the balance of the environment.
+          </p>
         </div>
       </div>
     </div>

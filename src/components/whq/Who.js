@@ -25,11 +25,11 @@ const Who = () => {
         </div>
         <div>
           <p>কে ফুল ভালোবাসেনা?</p>
-          <p>Who doesn't love flowers?</p>
+          <p>Who doesn&apos;t love flowers?</p>
         </div>
         <div>
           <p>কে এখানে আসলো না?</p>
-          <p>Who didn't come here?</p>
+          <p>Who didn&apos;t come here?</p>
         </div>
         <div>
           <p>কে এই গ্লাসটি ভেঙেছে?</p>

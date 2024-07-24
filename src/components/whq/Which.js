@@ -105,7 +105,7 @@ const Which = () => {
         </div>
         <div>
           <p>কোন দেশ সম্পর্কে তোমার কোন ধারনা নেই?</p>
-          <p>About which country don't you have any idea?</p>
+          <p>About which country don&apos;t you have any idea?</p>
         </div>
         <div>
           <p>কোন মন্ত্রী সম্পর্কে তুমি এই ডাহা মিথ্যা কথা বলছ?</p>

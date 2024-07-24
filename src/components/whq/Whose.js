@@ -38,7 +38,9 @@ const Whose = () => {
         </div>
         <div>
           <p>কার বাবার গাড়ির জন্য তুমি এখানে ১ ঘন্টা যাবত অপেক্ষা করছ?</p>
-          <p>For whose father's car have you been waiting here for an hour?</p>
+          <p>
+            For whose father&apos;s car have you been waiting here for an hour?
+          </p>
         </div>
         <div>
           <p>কাদের চেয়ারম্যান গরীবের লক্ষ লক্ষ টাকা মেরে দিয়েছে?</p>
