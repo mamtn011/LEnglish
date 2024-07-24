@@ -92,57 +92,57 @@ const Where = () => {
         <div>
           <p className="text-blue-500">Whereafter = যারপর / যে ঘটনার পর</p>
           <p>
-            তার বাবা একটি দূর্ঘটনায় মারা গিয়েছিল, যারপর সে অজ্ঞান হয়ে গিয়েছিল?
+            তার বাবা একটি দূর্ঘটনায় মারা গিয়েছিল, যারপর সে অজ্ঞান হয়ে গিয়েছিল।
           </p>
-          <p>His father died by an accident, whereafter he became senseless?</p>
+          <p>His father died by an accident, whereafter he became senseless.</p>
         </div>
         <div>
           <p className="text-blue-500">Whereas = যেখানে / পক্ষান্তরে</p>
-          <p>সে পরীক্ষায় A+ পেয়েছে, যেখানে তার ভাই ফেল করেছে?</p>
-          <p>He has got A+ in the exam, whereas his brother has failed?</p>
+          <p>সে পরীক্ষায় A+ পেয়েছে, যেখানে তার ভাই ফেল করেছে।</p>
+          <p>He has got A+ in the exam, whereas his brother has failed.</p>
         </div>
         <div>
           <p>ইন্ডিয়া দিন দিন উন্নতি করছে, যেখানে বাংলাদেশ পিছিয়ে পরছে?</p>
           <p>
             India is developing day by day, whereas Bangladesh is lagging
-            behind?
+            behind.
           </p>
         </div>
         <div>
           <p className="text-blue-500">
             Wherefrom/Whence = যেখান থেকে / যে উৎস থেকে
           </p>
-          <p>আমি ইংরেজি শেখা শুরু করতে চাই যেখান থেকে তুমি শুরু করতে চাও?</p>
+          <p>আমি ইংরেজি শেখা শুরু করতে চাই যেখান থেকে তুমি শুরু করতে চাও।</p>
           <p>
-            I want to start learning English wherefrom/whence you want to start?
+            I want to start learning English wherefrom/whence you want to start.
           </p>
         </div>
         <div>
           <p className="text-blue-500">Wheresoever/Wherever = যেখানেই</p>
-          <p>তুমি যেখানেই থাক আমি তোমাকে খুঁজে বের করবো?</p>
-          <p>I will find you out wheresoever/wherever you are?</p>
+          <p>তুমি যেখানেই থাক আমি তোমাকে খুঁজে বের করবো।</p>
+          <p>I will find you out wheresoever/wherever you are.</p>
         </div>
         <div>
-          <p>তুমি যেখানেই যাবে আমি সেখানেই যাবো?</p>
-          <p>I will go there wheresoever you will go?</p>
+          <p>তুমি যেখানেই যাবে আমি সেখানেই যাবো।</p>
+          <p>I will go there wheresoever you will go.</p>
         </div>
         <div>
           <p className="text-blue-500">Whereon = যার উপর</p>
           <p>আমি বিষয়টি বুঝতে চাই, যার উপর তুমি এত মনোযোগ দিয়েছ?</p>
           <p>
             I want to understand the matter whereon you have paid much
-            attention?
+            attention.
           </p>
         </div>
         <div>
           <p className="text-blue-500">Whereupon/Whereat = যার ফলে</p>
           <p>
             সে একটি বিতর্কিত সিদ্ধান্ত গ্রহন করেছে, যার ফলেই লক্ষ লক্ষ লোক
-            বিদ্রোহ করছে?
+            বিদ্রোহ করছে।
           </p>
           <p>
             He has taken a controversial decision whereupon/whereat millions of
-            people are demonstrating?
+            people are demonstrating.
           </p>
         </div>
         <div>
@@ -151,32 +151,32 @@ const Where = () => {
           </p>
           <p>
             এটিই হচ্ছে সবচেয়ে ভালো উপায় যার দ্বারা আমরা আমাদের স্বপ্ন বাস্তবায়ন
-            করতে পারি?
+            করতে পারি।
           </p>
           <p>
-            This is the best means wherewith/whereby we can implement our dream?
+            This is the best means wherewith/whereby we can implement our dream.
           </p>
         </div>
         <div>
           <p className="text-blue-500">Whereto/Whereunto = যে জিনিসের প্রতি</p>
-          <p>যে জিনিসের প্রতি সে ও তার মা অন্ধ, তা আমি জানিনা?</p>
+          <p>যে জিনিসের প্রতি সে ও তার মা অন্ধ, তা আমি জানিনা।</p>
           <p>
-            I don&apos;t know whereto/whereunto she and her mother are blind?
+            I don&apos;t know whereto/whereunto she and her mother are blind.
           </p>
         </div>
         <div>
           <p className="text-blue-500">Whereof = যে বিষয়ে</p>
-          <p>যে বিষয়ে তারা কথা বলছে, তা আমি জানিনা?</p>
-          <p>I don&apos;t know whereof they are talking?</p>
+          <p>যে বিষয়ে তারা কথা বলছে, তা আমি জানিনা।</p>
+          <p>I don&apos;t know whereof they are talking.</p>
         </div>
         <div>
           <p className="text-blue-500">
             Wherewithal = অর্থনৈতিক উপায় / প্রয়োজনীয় অর্থ
           </p>
           <p>
-            আমার একটি ক্যামেরা কেনা দরকার কিন্তু আমার কাছে প্রয়োজনীয় অর্থ নেই?
+            আমার একটি ক্যামেরা কেনা দরকার কিন্তু আমার কাছে প্রয়োজনীয় অর্থ নেই।
           </p>
-          <p>I need to buy a camera but I don&apos;t have wherewithal?</p>
+          <p>I need to buy a camera but I don&apos;t have the wherewithal.</p>
         </div>
       </div>
     </div>

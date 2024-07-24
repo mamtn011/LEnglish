@@ -24,7 +24,7 @@ const LessonMenu = ({ navItems, label }) => {
           <li key={path} className="btn-lesson">
             <Link
               href={path}
-              className="hover:text-orange-500"
+              className="hover:text-orange-500 inline-block w-full py-1 px-2"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
             >
               {label}

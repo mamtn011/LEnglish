@@ -36,6 +36,56 @@ const FutureIndefinite = () => {
           <p>They will remove poverty.</p>
         </div>
         <div>
+          <p>তিনি আগস্টে তার নতুন কাজ শুরু করবেন।</p>
+          <p>She will start her new job in August.</p>
+        </div>
+        <div>
+          <p>তারা আমাদের পাড়ায় একটি নতুন পার্ক তৈরি করবে।</p>
+          <p>They will build a new park in our neighborhood.</p>
+        </div>
+        <div>
+          <p>কোম্পানি পরের মাসে তাদের নতুন পণ্য চালু করবে।</p>
+          <p>The company will launch its new product next month.</p>
+        </div>
+        <div>
+          <p>আমরা এই শীতে পাহাড়ে ছুটিতে যাব।</p>
+          <p>We will go on a vacation to the mountains this winter.</p>
+        </div>
+        <div>
+          <p>স্কুলটি আগামী শুক্রবার একটি বিজ্ঞান মেলার আয়োজন করবে।</p>
+          <p>The school will organize a science fair next Friday.</p>
+        </div>
+        <div>
+          <p>তিনি যথেষ্ট টাকা জমা হলে একটি নতুন গাড়ি কিনবেন।</p>
+          <p>He will buy a new car once she saves enough money.</p>
+        </div>
+        <div>
+          <p>সরকার শিক্ষার উন্নতির জন্য নতুন নীতি বাস্তবায়ন করবে।</p>
+          <p>
+            The government will implement new policies to improve education.
+          </p>
+        </div>
+        <div>
+          <p>তিনি তার ফিটনেস উন্নত করতে পরের সপ্তাহে জিমে যোগ দেবেন।</p>
+          <p>He will join the gym next week to improve his fitness.</p>
+        </div>
+        <div>
+          <p>তারা পরের মাসে তাদের বিবাহ বার্ষিকী উদযাপন করবে।</p>
+          <p>They will celebrate their wedding anniversary next month.</p>
+        </div>
+        <div>
+          <p>কোম্পানি তার কার্যক্রম ইউরোপে প্রসারিত করবে।</p>
+          <p>The company will expand its operations to Europe.</p>
+        </div>
+        <div>
+          <p>আমরা একটি সবুজ পরিবেশ তৈরি করতে আরও গাছ লাগাব।।</p>
+          <p>We will plant more trees to create a greener environment.</p>
+        </div>
+        <div>
+          <p>তিনি নতুন রেসিপি শিখতে একটি রান্নার ক্লাসে যোগ দেবেন।</p>
+          <p>She will join a cooking class to learn new recipes.</p>
+        </div>
+        <div>
           <p>
             আমরা আশাকরি যে, আমাদের সরকার আমাদের দেশ থেকে সন্ত্রাসবাদ দূর করতে
             কিছু বাস্তবিক পদক্ষেপ গ্রহন করবে।

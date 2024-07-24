@@ -56,6 +56,55 @@ const PastIndefinite = () => {
             Dhaka-Kushtia highway around 8:30 last night.
           </p>
         </div>
+        <div>
+          <p>
+            কোম্পানিটি গত বছর একটি নতুন পণ্য চালু করেছিল যা দ্রুত গ্রাহকদের
+            মধ্যে জনপ্রিয় হয়ে উঠেছিল।
+          </p>
+          <p>
+            The company launched a new product last year that quickly became
+            popular among customers.
+          </p>
+        </div>
+        <div>
+          <p>
+            তিনি যখন উচ্চ বিদ্যালয়ে ছিলেন তখন জাতীয় চিত্রাঙ্কন প্রতিযোগিতায়
+            প্রথম পুরস্কার জিতেছিলেন।
+          </p>
+          <p>
+            She won the first prize in the national painting competition when
+            she was in high school.
+          </p>
+        </div>
+        <div>
+          <p>
+            তারা ১৯৯৫ সালে দুই শহরের সংযোগের জন্য নদীর ওপর একটি সেতু নির্মাণ
+            করেছিলেন।
+          </p>
+          <p>
+            They built a bridge over the river in 1995 to connect the two towns.
+          </p>
+        </div>
+        <div>
+          <p>
+            আমরা গত সপ্তাহান্তে মহাকাশ অন্বেষণ সম্পর্কে একটি আকর্ষণীয়
+            প্রামাণ্যচিত্র দেখেছিলাম।
+          </p>
+          <p>
+            We watched a fascinating documentary about space exploration last
+            weekend.
+          </p>
+        </div>
+        <div>
+          <p>
+            শিক্ষক পরীক্ষায় তাদের চমৎকার পারফরম্যান্সের জন্য শিক্ষার্থীদের
+            প্রশংসা করেছিলেন।
+          </p>
+          <p>
+            The teacher praised the students for their excellent performance in
+            the exam.
+          </p>
+        </div>
       </div>
     </div>
   );

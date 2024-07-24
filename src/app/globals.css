@@ -30,7 +30,7 @@
 }
 
 .btn-lesson {
-  @apply w-full sm:w-[200px] text-center sm:text-left px-2 mb-4 font-semibold border border-gray-300 p-1 rounded;
+  @apply w-full sm:w-[200px] text-center sm:text-left mb-4 font-semibold border border-gray-300 rounded;
 }
 
 .nav-link {
