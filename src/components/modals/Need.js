@@ -10,8 +10,10 @@ const Need = () => {
               <span className="font-semibold">NB: </span>Need শুধু মাত্র না-বোধক
               ও প্রশ্নবোধকে Modal হিসেবে ব্যবহার করা যায়।
             </p>
-            <p>Need + noun/pronoun = কোনকিছু প্রয়োজন/দরকার।</p>
-            <p>Needed + noun/pronoun = কোনকিছু প্রয়োজন/দরকার ছিল।</p>
+            <p>Need = কোনকিছু প্রয়োজন/দরকার।</p>
+            <p>Needed = কোনকিছু প্রয়োজন/দরকার ছিল।</p>
+            <p>Need to + be = কোনকিছু হওয়া প্রয়োজন/দরকার।</p>
+            <p>Need to + have = কোনকিছু থাকা প্রয়োজন/দরকার।</p>
             <p>Need to + v1 = কোনকিছু করা প্রয়োজন/দরকার।</p>
             <p>Needed to + v1 = কোনকিছু করা প্রয়োজন/দরকার ছিল (informal)</p>
             <p>
