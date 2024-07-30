@@ -3,7 +3,7 @@ import React from "react";
 const Why = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">Why</button>
+      <button className="btn-lesson p-1">Why</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>

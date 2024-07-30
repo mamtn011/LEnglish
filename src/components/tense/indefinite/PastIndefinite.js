@@ -1,7 +1,7 @@
 const PastIndefinite = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">Past Indefinite</button>
+      <button className="btn-lesson p-1">Past Indefinite</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>

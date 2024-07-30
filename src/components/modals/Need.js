@@ -1,7 +1,7 @@
 const Need = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">Need</button>
+      <button className="btn-lesson p-1">Need</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>
@@ -13,12 +13,18 @@ const Need = () => {
             <p>Need = কোনকিছু প্রয়োজন/দরকার।</p>
             <p>Needed = কোনকিছু প্রয়োজন/দরকার ছিল।</p>
             <p>Need to + be = কোনকিছু হওয়া প্রয়োজন/দরকার।</p>
-            <p>Need to + have = কোনকিছু থাকা প্রয়োজন/দরকার।</p>
-            <p>Need to + v1 = কোনকিছু করা প্রয়োজন/দরকার।</p>
-            <p>Needed to + v1 = কোনকিছু করা প্রয়োজন/দরকার ছিল (informal)</p>
+            <p>Needed to + be = কোনকিছু হওয়া প্রয়োজন/দরকার ছিল। (informal)</p>
             <p>
-              Need have + v3 = কোনকিছু করা প্রয়োজন/দরকার ছিল (formal-less used
-              in modern English)
+              Need to + have been = কোনকিছু হওয়া প্রয়োজন/দরকার ছিল। (formal-less
+              used in modern English)
+            </p>
+            <p>Need to + have = কোনকিছু থাকা প্রয়োজন/দরকার।</p>
+            <p>Needed to + have = কোনকিছু থাকা প্রয়োজন/দরকার ছিল।</p>
+            <p>Need to + v1 = কোনকিছু করা প্রয়োজন/দরকার।</p>
+            <p>Needed to + v1 = কোনকিছু করা প্রয়োজন/দরকার ছিল। (informal)</p>
+            <p>
+              Need to have + v3 = কোনকিছু করা প্রয়োজন/দরকার ছিল। (formal-less
+              used in modern English)
             </p>
             <p>Need + v+ing = কোনকিছুকে কিছু করা প্রয়োজন/দরকার </p>
             <p>If need be = প্রয়োজন হলে / যদি প্রয়োজন হয় </p>
@@ -35,14 +41,32 @@ const Need = () => {
           <p>I needed a laptop.</p>
         </div>
         <div>
+          <p>তার আরও সৎ হওয়া প্রয়োজন।</p>
+          <p>He needs to be more honest.</p>
+        </div>
+        <div>
+          <p>তার আরও সত্যবাদী হওয়া প্রয়োজন ছিল।</p>
+          <p>He needed to be more truthful.</p>
+          <p>He needs to have been truthful.</p>
+        </div>
+        <div>
+          <p>আমার একটি ল্যাপটপ থাকা দরকার।</p>
+          <p>I need to have a laptop.</p>
+        </div>
+        <div>
+          <p>আমার একটি ল্যাপটপ থাকা দরকার ছিল।</p>
+          <p>I needed to have a laptop.</p>
+        </div>
+        <div>
           <p>আমার একটি ল্যাপটপ কেনা দরকার।</p>
           <p>I need to buy a laptop.</p>
         </div>
         <div>
           <p>আমার একটি ল্যাপটপ কেনা দরকার ছিল।</p>
           <p>I needed to buy a laptop.</p>
-          <p>I need have bought a laptop.</p>
+          <p>I need to have bought a laptop.</p>
         </div>
+
         <div>
           <p>আমার ল্যাপটপটি পরিষ্কার করা দরকার।</p>
           <p>My laptop needs cleaning.</p>

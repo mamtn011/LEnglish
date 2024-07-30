@@ -1,7 +1,7 @@
 const When = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">When</button>
+      <button className="btn-lesson p-1">When</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>

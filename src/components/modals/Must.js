@@ -1,7 +1,7 @@
 const Must = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">Must & Have to</button>
+      <button className="btn-lesson p-1">Must & Have to</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>

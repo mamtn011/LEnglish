@@ -3,7 +3,7 @@ import React from "react";
 const Whose = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">Whose</button>
+      <button className="btn-lesson p-1">Whose</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>

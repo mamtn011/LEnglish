@@ -1,7 +1,7 @@
 const Should = () => {
   return (
     <div className="w-full">
-      <button className="btn-lesson">Should</button>
+      <button className="btn-lesson p-1">Should</button>
       <div className={`flex flex-col gap-4 mb-6`}>
         <div>
           <p className="font-bold py-2">Description:</p>
