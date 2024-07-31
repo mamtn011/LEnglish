@@ -28,7 +28,7 @@ const Should = () => {
         </div>
         <p className="font-bold">Examples:</p>
         {/* should be / should have been  */}
-        <div>
+        <div className="flex flex-col gap-4">
           <div className="py-2 text-blue-600">
             <p>Should + be = কোনকিছু হওয়া উচিৎ/ কোথাও থাকা উচিৎ।</p>
             <p>
@@ -139,7 +139,7 @@ const Should = () => {
         </div>
 
         {/* should have / should have had  */}
-        <div>
+        <div className="flex flex-col gap-4">
           <div className="py-2 text-blue-600">
             <p>Should + have = কোনকিছু (অধীনে) থাকা উচিৎ।</p>
             <p>Should + have had = কোনকিছু (অধীনে) থাকা উচিৎ ছিল।</p>
@@ -250,7 +250,7 @@ const Should = () => {
           </div>
         </div>
         {/* should + v1 / should have +v3  */}
-        <div>
+        <div className="flex flex-col gap-4">
           <div className="py-2 text-blue-600">
             <p>Should + v1 = কোনকিছু করা উচিৎ।</p>
             <p>Should have + v3 = কোনকিছু করা উচিৎ ছিল।</p>
@@ -316,7 +316,7 @@ const Should = () => {
           </div>
         </div>
         {/* Should be + v+ing / Should have been + v+ing  */}
-        <div>
+        <div className="flex flex-col gap-4">
           <div className="py-2 text-blue-600">
             <p>
               Should be + v+ing = কোনকিছু করে যাওয়া বা করতে থাকা
