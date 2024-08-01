@@ -62,9 +62,7 @@ const HaveVerb = () => {
             এই পৃথিবীতে অনেক লোকের অনেক স্বপ্ন আছে, ঠিক তেমনি আমারও একটি স্বপ্ন
             আছে।
           </p>
-          <p>
-            Many people have many dreams in this world, so also I have a dream.
-          </p>
+          <p>Many people have many dreams, I also have a dream.</p>
         </div>
         <div>
           <p>গরিবের টাকা আত্মসাতে আমাদের রাজনৈতিক নেতাদের কোন লজ্জা নেই।</p>
