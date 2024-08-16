@@ -3,7 +3,7 @@ const page = () => {
   const navItems = [
     { path: "/modals/should", label: "Should" },
     { path: "/modals/need", label: "Need" },
-    { path: "/modals/must", label: "Must & Have to" },
+    { path: "/modals/must", label: "Must" },
     { path: "/modals/may", label: "May" },
   ];
   return (
