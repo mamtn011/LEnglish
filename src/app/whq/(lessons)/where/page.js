@@ -1,6 +1,6 @@
 import Where from "@/components/whq/Where";
-const page = () => {
+const Page = () => {
   return <Where />;
 };
 
-export default page;
+export default Page;

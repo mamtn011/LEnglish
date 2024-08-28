@@ -1,6 +1,6 @@
 import Whose from "@/components/whq/Whose";
-const page = () => {
+const Page = () => {
   return <Whose />;
 };
 
-export default page;
+export default Page;

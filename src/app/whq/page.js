@@ -1,5 +1,5 @@
 import Link from "next/link";
-const page = () => {
+const Page = () => {
   const navItems = [
     { path: "/whq/who", label: "Who - Whom" },
     { path: "/whq/whom", label: "Whom" },
@@ -29,4 +29,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

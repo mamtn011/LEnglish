@@ -1,5 +1,5 @@
 import Link from "next/link";
-const page = () => {
+const Page = () => {
   const navItems = [
     { path: "/starting/be", label: "Be Verb" },
     { path: "/starting/have", label: "Have Verb" },
@@ -23,4 +23,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

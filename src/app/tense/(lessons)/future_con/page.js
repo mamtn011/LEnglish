@@ -1,7 +1,7 @@
 import FutureContinuous from "@/components/tense/continuous/FutureContinuous";
 
-const page = () => {
+const Page = () => {
   return <FutureContinuous />;
 };
 
-export default page;
+export default Page;

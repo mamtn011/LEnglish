@@ -26,8 +26,8 @@ const Need = () => {
               Need to have + v3 = কোনকিছু করা প্রয়োজন/দরকার ছিল। (formal-less
               used in modern English)
             </p>
-            <p>Need + v+ing = কোনকিছুকে কিছু করা প্রয়োজন/দরকার </p>
-            <p>If need be = প্রয়োজন হলে / যদি প্রয়োজন হয় </p>
+            <p>Need + v+ing = কোনকিছুকে কিছু করা প্রয়োজন/দরকার।</p>
+            <p>If need be = প্রয়োজন হলে / যদি প্রয়োজন হয়। (If necessary)</p>
           </div>
           <p></p>
         </div>

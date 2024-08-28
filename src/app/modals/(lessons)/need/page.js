@@ -1,7 +1,7 @@
 import Need from "@/components/modals/Need";
 
-const page = () => {
+const Page = () => {
   return <Need />;
 };
 
-export default page;
+export default Page;

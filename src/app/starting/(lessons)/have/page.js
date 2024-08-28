@@ -1,6 +1,6 @@
 import HaveVerb from "@/components/starting/HaveVerb";
-const page = () => {
+const Page = () => {
   return <HaveVerb />;
 };
 
-export default page;
+export default Page;

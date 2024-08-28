@@ -1,7 +1,7 @@
 import PastContinuous from "@/components/tense/continuous/PastContinuous";
 
-const page = () => {
+const Page = () => {
   return <PastContinuous />;
 };
 
-export default page;
+export default Page;

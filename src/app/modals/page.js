@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { modalNavItems } from "@/store/links";
-const page = () => {
+const Page = () => {
   return (
     <main className="w-full py-28">
       <div className="max-w-7xl mx-auto px-4">
@@ -19,4 +19,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

@@ -1,7 +1,7 @@
 import Must from "@/components/modals/Must";
 
-const page = () => {
+const Page = () => {
   return <Must />;
 };
 
-export default page;
+export default Page;

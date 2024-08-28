@@ -1,7 +1,7 @@
 import FuturePerfectContinuous from "@/components/tense/perfect_continuous/FuturePerfectContinuous";
 
-const page = () => {
+const Page = () => {
   return <FuturePerfectContinuous />;
 };
 
-export default page;
+export default Page;

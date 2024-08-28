@@ -1,7 +1,7 @@
 import Should from "@/components/modals/Should";
 
-const page = () => {
+const Page = () => {
   return <Should />;
 };
 
-export default page;
+export default Page;

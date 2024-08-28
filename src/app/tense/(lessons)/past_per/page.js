@@ -1,7 +1,7 @@
 import PastPerfect from "@/components/tense/perfect/PastPerfect";
 
-const page = () => {
+const Page = () => {
   return <PastPerfect />;
 };
 
-export default page;
+export default Page;

@@ -1,5 +1,5 @@
 import Link from "next/link";
-const page = () => {
+const Page = () => {
   const navItems = [
     { path: "/tense/present_in", label: "Present Indefinite" },
     { path: "/tense/past_in", label: "Past Indefinite" },
@@ -32,4 +32,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

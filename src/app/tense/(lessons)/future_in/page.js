@@ -1,7 +1,7 @@
 import FutureIndefinite from "@/components/tense/indefinite/FutureIndefinite";
 
-const page = () => {
+const Page = () => {
   return <FutureIndefinite />;
 };
 
-export default page;
+export default Page;

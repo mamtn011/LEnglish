@@ -1,7 +1,7 @@
 import BeTo from "@/components/modals/BeTo";
 
-const page = () => {
+const Page = () => {
   return <BeTo />;
 };
 
-export default page;
+export default Page;

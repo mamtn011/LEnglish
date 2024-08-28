@@ -1,6 +1,6 @@
 import When from "@/components/whq/When";
-const page = () => {
+const Page = () => {
   return <When />;
 };
 
-export default page;
+export default Page;

@@ -1,7 +1,7 @@
 import FuturePerfect from "@/components/tense/perfect/FuturePerfect";
 
-const page = () => {
+const Page = () => {
   return <FuturePerfect />;
 };
 
-export default page;
+export default Page;

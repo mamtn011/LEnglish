@@ -1,7 +1,7 @@
 import PresentIndefinite from "@/components/tense/indefinite/PresentIndefinite";
 
-const page = () => {
+const Page = () => {
   return <PresentIndefinite />;
 };
 
-export default page;
+export default Page;

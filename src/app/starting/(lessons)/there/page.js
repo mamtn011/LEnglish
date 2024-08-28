@@ -1,6 +1,6 @@
 import UseOfThere from "@/components/starting/UseOfThere";
-const page = () => {
+const Page = () => {
   return <UseOfThere />;
 };
 
-export default page;
+export default Page;

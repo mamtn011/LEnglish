@@ -1,6 +1,6 @@
 import Which from "@/components/whq/Which";
-const page = () => {
+const Page = () => {
   return <Which />;
 };
 
-export default page;
+export default Page;

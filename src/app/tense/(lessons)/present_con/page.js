@@ -1,7 +1,7 @@
 import PresentContinuous from "@/components/tense/continuous/PresentContinuous";
 
-const page = () => {
+const Page = () => {
   return <PresentContinuous />;
 };
 
-export default page;
+export default Page;

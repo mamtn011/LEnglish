@@ -1,6 +1,6 @@
 import Why from "@/components/whq/Why";
-const page = () => {
+const Page = () => {
   return <Why />;
 };
 
-export default page;
+export default Page;

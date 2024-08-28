@@ -1,6 +1,6 @@
 import How from "@/components/whq/How";
-const page = () => {
+const Page = () => {
   return <How />;
 };
 
-export default page;
+export default Page;

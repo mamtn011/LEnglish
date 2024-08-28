@@ -1,7 +1,7 @@
 import PastIndefinite from "@/components/tense/indefinite/PastIndefinite";
 
-const page = () => {
+const Page = () => {
   return <PastIndefinite />;
 };
 
-export default page;
+export default Page;

@@ -1,6 +1,6 @@
 import What from "@/components/whq/What";
-const page = () => {
+const Page = () => {
   return <What />;
 };
 
-export default page;
+export default Page;

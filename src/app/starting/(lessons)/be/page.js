@@ -1,7 +1,7 @@
 import BeVerb from "@/components/starting/BeVerb";
 
-const page = () => {
+const Page = () => {
   return <BeVerb />;
 };
 
-export default page;
+export default Page;
