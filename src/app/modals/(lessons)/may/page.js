@@ -1,5 +1,7 @@
+import May from "@/components/modals/may";
+
 const Page = () => {
-  return;
+  return <May />;
 };
 
 export default Page;
