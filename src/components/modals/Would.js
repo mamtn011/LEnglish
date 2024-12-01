@@ -328,10 +328,10 @@ const Would = () => {
         <div className="flex flex-col gap-4">
           <p className="text-blue-500">
             Polite request এর জন্য Would ব্যবহার করা হয়। এক্ষেত্রে would এর
-            স্থলে could ও ব্যবহার হয়ে থাকে। "Could you" is a more common and
-            versatile choice asking for a small favor or permission. "Would you"
-            is a good choice for making a more significant request or emphasize
-            your willingness to help.
+            স্থলে could ও ব্যবহার হয়ে থাকে। &quot;Could you&quot; is a more
+            common and versatile choice asking for a small favor or permission.
+            &quot;Would you&quot; is a good choice for making a more significant
+            request or emphasize your willingness to help.
           </p>
           <div>
             <p>দয়া করে তুমি কি দরজাটা খুলবে?</p>
