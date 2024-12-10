@@ -7,4 +7,5 @@ export const modalNavItems = [
   { path: "/modals/may", label: "May" },
   { path: "/modals/would", label: "Would" },
   { path: "/modals/usedto", label: "Used To" },
+  { path: "/modals/dare", label: "Dare" },
 ];
