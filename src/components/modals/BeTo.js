@@ -508,6 +508,40 @@ const BeTo = () => {
             </p>
           </div>
         </div>
+        <div className="flex flex-col gap-4">
+          <div className="py-2 text-blue-500">
+            <p>
+              কনকিছু ( লক্ষ্য, প্রত্যাশা, স্বপ্ন...) করা বা হওয়া বোঝাতে ( am,
+              is, are, was... + to + v1 ) ব্যবহৃত হয়।
+            </p>
+          </div>
+          <div>
+            <p>আমার লক্ষ্য হল একজন ওয়েব ডেভেলোপার হওয়া।</p>
+            <p>My aim/goal is to be a web developer.</p>
+          </div>
+          <div>
+            <p>আমাদের সরকারের লক্ষ্য দেশর অর্থনৈতিক অবস্থা উন্নত করা।</p>
+            <p>
+              The target of our government is to improve the country&apos;s
+              economic condition.
+            </p>
+          </div>
+          <div>
+            <p>
+              আমাদের প্রত্যাশা একটি সুখী, সমৃদ্ধ ও দুর্নীতিমুক্ত সমাজ গড়ে তোলা।
+            </p>
+            <p>
+              Our expectation is to build a happy, prosperous, and
+              corruption-free society.
+            </p>
+          </div>
+          <div>
+            <p>আমার বাবার স্বপ্ন ছিল আমাদের গ্রামে একটি স্কুল প্রতিষ্ঠা করা।</p>
+            <p>
+              My father&apos;s dream was to establish a school in our village.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );
