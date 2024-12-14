@@ -9,3 +9,8 @@ export const modalNavItems = [
   { path: "/modals/usedto", label: "Used To" },
   { path: "/modals/dare", label: "Dare" },
 ];
+
+export const passiveNavItems = [
+  { path: "/passive/basic", label: "Basic" },
+  { path: "/passive/present", label: "Present Tense" },
+];

@@ -40,7 +40,7 @@ export default function Home() {
           </li>
           <li>
             <Link
-              href="/passive/tense"
+              href="/passive/basic"
               className="nav-link hover:text-orange-500"
             >
               Passive
