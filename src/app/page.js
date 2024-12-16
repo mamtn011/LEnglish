@@ -46,6 +46,11 @@ export default function Home() {
               Passive
             </Link>
           </li>
+          <li>
+            <Link href="/to/about" className="nav-link hover:text-orange-500">
+              To
+            </Link>
+          </li>
         </ul>
       </div>
     </main>

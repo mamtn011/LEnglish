@@ -14,3 +14,7 @@ export const passiveNavItems = [
   { path: "/passive/basic", label: "Basic" },
   { path: "/passive/present", label: "Present Tense" },
 ];
+export const toNavItems = [
+  { path: "/to/about", label: "About & Yet" },
+  { path: "/to/able", label: "Able, Supposed & Compelled" },
+];
