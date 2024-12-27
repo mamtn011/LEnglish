@@ -406,7 +406,9 @@ const Would = () => {
           </div>
         </div>
         <div className="flex flex-col gap-4">
-          <p className="text-blue-500">Would rather এর আরও কিছু উদাহরণ।</p>
+          <p className="text-blue-500">
+            Would rather এর আরও কিছু উদাহরণ। Subject দুইটা হলে v2 হবে।
+          </p>
           <div>
             <p>আমি চাই আজ রাতে আপনি আমাদের বাসায় থাকেন।</p>
             <p>I would rather you stayed at our house tonight.</p>
