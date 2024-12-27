@@ -6,9 +6,11 @@ const Going = () => {
         <div>
           <p className="font-bold py-2">Description:</p>
           <div className="py-2 text-blue-500">
-            <p>Going to</p>
-            <p>Willing to</p>
-            <p>Unwilling to</p>
+            <p>Going to : কোনকিছু করতে যাচ্ছি।</p>
+            <p>Willing to : কোনকিছু করতে ইচ্ছুক।</p>
+            <p>Unwilling to : কোনকিছু করতে অনিচ্ছুক।</p>
+            <p>Likely to : কোনকিছু করার সম্ভাবনা আছে।</p>
+            <p>Unlikely to : কোনকিছু করার সম্ভাবনা নেই।</p>
           </div>
           <p></p>
         </div>
@@ -152,11 +154,24 @@ const Going = () => {
             <p>It is likely that he will get the job.</p>
           </div>
           <div>
+            <p>এটা অসম্ভাব্য যে মানুষ অমর হবে।</p>
+            <p>It is unlikely that humans will become immortal.</p>
+          </div>
+          <div>
             <p>
               এটা সম্ভাব্য বলে মনে হয় যে মানুষ ২০৩০ সালের মধ্যে মঙ্গলগ্রহে অবতরন
               করবে।
             </p>
             <p>It seems likely that humans will land on Mars by 2030.</p>
+          </div>
+          <div>
+            <p>
+              এটা অসম্ভাব্য বলে মনে হয় যে বাংলাদেশ কখনো ফুটবল বিশ্বকাপ জিতবে।
+            </p>
+            <p>
+              It seems unlikely that Bangladesh will ever win the FIFA World
+              Cup.
+            </p>
           </div>
         </div>
       </div>

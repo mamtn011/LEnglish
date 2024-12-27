@@ -4,7 +4,9 @@ const page = () => {
   return (
     <main className="w-full py-28">
       <div className="max-w-7xl mx-auto px-4">
-        <h1 className="text-2xl font-bold text-center mb-8">6. To</h1>
+        <h1 className="text-2xl font-bold text-center mb-8">
+          6. (Be + Something) + To
+        </h1>
         <ul className="w-full flex flex-col items-center justify-center gap-2">
           {toNavItems.map(({ path, label }) => (
             <li key={path}>

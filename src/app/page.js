@@ -48,7 +48,7 @@ export default function Home() {
           </li>
           <li>
             <Link href="/to/about" className="nav-link hover:text-orange-500">
-              To
+              (Be + Sth) + To
             </Link>
           </li>
         </ul>
