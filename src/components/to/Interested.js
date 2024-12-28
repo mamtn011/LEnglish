@@ -13,8 +13,8 @@ const Interested = () => {
             <p>Determined to : কোনকিছু করতে দৃঢ় প্রতিজ্ঞ/সংকল্পিত।</p>
             <p>Enthusiastic about : কোনকিছু করার বিষয়ে অতি উৎসাহী।</p>
             <p>
-              Unenthusiastic about : কোনকিছু করার বিষয়ে অতি
-              নিরুৎসাহিত/আগ্রহশূন্য হওয়া।
+              Unenthusiastic about : কোনকিছু করার বিষয়ে নিরুৎসাহিত/আগ্রহশূন্য
+              হওয়া।
             </p>
           </div>
           <p></p>
