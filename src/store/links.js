@@ -23,4 +23,5 @@ export const toNavItems = [
   { path: "/to/interested", label: "Interested, Determined, Enthusiastic" },
   { path: "/to/sorry", label: "Sorry, Happy, Shocked, Excited" },
   { path: "/to/set", label: "Set, Afraid, Feel" },
+  { path: "/to/lookforward", label: "Look forward, Sure of, Fond of" },
 ];

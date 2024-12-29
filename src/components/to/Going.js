@@ -93,13 +93,14 @@ const Going = () => {
             disinclined to + v1 <br />
             indisposed to + v1 <br />
             averse to + v+ing <br />
-            <strong>NB: </strong>"Reluctant to" and "disinclined to" are quite
-            similar, with "disinclined" being slightly more formal and less
-            emotionally charged. "Indisposed to" is more formal and often refers
-            to physical or mental unavailability, rather than just reluctance.
-            "Averse to" expresses a strongly opposed or having a strong dislike
-            toward something. "Unwilling to" is a straightforward expression of
-            refusal or lack of willingness, often stronger than the others.
+            <strong>NB: </strong>&quot;Reluctant to&quot; and &quot;disinclined
+            to&quot; are quite similar, with &quot;disinclined&quot; being
+            slightly more formal and less emotionally charged. &quot;Indisposed
+            to&quot; is more formal and often refers to physical or mental
+            unavailability, rather than just reluctance. &quot;Averse to&quot;
+            expresses a strongly opposed or having a strong dislike toward
+            something. &quot;Unwilling to&quot; is a straightforward expression
+            of refusal or lack of willingness, often stronger than the others.
           </p>
           <div>
             <p>আমি ইংরেজিতে কথা বলতে অনিচ্ছুক/নারাজ।</p>
