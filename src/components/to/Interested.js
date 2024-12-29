@@ -16,6 +16,9 @@ const Interested = () => {
               Unenthusiastic about : কোনকিছু করার বিষয়ে নিরুৎসাহিত/আগ্রহশূন্য
               হওয়া।
             </p>
+            <p>
+              Hopeful of / Optimistic about: কোনকিছু করার বিষয়ে আশাবাদি হওয়া।
+            </p>
           </div>
           <p></p>
         </div>
@@ -137,6 +140,25 @@ const Interested = () => {
           <div>
             <p>সে সেখানে যাওয়ার বিষয়ে নিরুৎসাহিত/আগ্রহশূন্য ছিল।</p>
             <p>He was unenthusaistic about going there.</p>
+          </div>
+        </div>
+        <div className="flex flex-col gap-4">
+          <p className="text-blue-500">
+            কোনকিছু করার বিষয়ে আশাবাদি হওয়া বোঝাতে be(am,is,are...) + hopeful
+            of/about / optimistic about + v+ing ব্যবহৃত হয়।
+          </p>
+          <div>
+            <p>আমি ইংরেজিতে কথা বলার ব্যপারে আশাবাদি।</p>
+            <p>I am hopeful of speaking in English.</p>
+            <p>I am optimistic about speaking in English.</p>
+          </div>
+          <div>
+            <p>আমি সফল হওয়ার বিষয়ে আশাবাদি ছিলাম।</p>
+            <p>I was hopeful/optimistic about being successful.</p>
+          </div>
+          <div>
+            <p>তোমার আমেরিকা যাওয়ার বিষয়ে আশাবাদি হওয়া উচিৎ।</p>
+            <p>You should be optimistic/hopeful about going to America.</p>
           </div>
         </div>
       </div>

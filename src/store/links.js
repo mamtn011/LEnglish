@@ -22,4 +22,5 @@ export const toNavItems = [
   { path: "/to/going", label: "Going, Willing, Likely" },
   { path: "/to/interested", label: "Interested, Determined, Enthusiastic" },
   { path: "/to/sorry", label: "Sorry, Happy, Shocked, Excited" },
+  { path: "/to/set", label: "Set, Afraid, Feel" },
 ];

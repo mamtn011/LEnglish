@@ -87,6 +87,42 @@ const Going = () => {
         </div>
         <div className="flex flex-col gap-4">
           <p className="text-blue-500">
+            কোনকিছু করতে অনিচ্ছুক বোঝানোর জন্য unwilling to + v1 এর পাশাপাশি আরও
+            কিছু স্ট্রাকচারও ব্যবহৃত হয়। সেগুলো হলোঃ <br />
+            reluctant to + v1 <br />
+            disinclined to + v1 <br />
+            indisposed to + v1 <br />
+            averse to + v+ing <br />
+            <strong>NB: </strong>"Reluctant to" and "disinclined to" are quite
+            similar, with "disinclined" being slightly more formal and less
+            emotionally charged. "Indisposed to" is more formal and often refers
+            to physical or mental unavailability, rather than just reluctance.
+            "Averse to" expresses a strongly opposed or having a strong dislike
+            toward something. "Unwilling to" is a straightforward expression of
+            refusal or lack of willingness, often stronger than the others.
+          </p>
+          <div>
+            <p>আমি ইংরেজিতে কথা বলতে অনিচ্ছুক/নারাজ।</p>
+            <p>I am reluctant to speak English.</p>
+          </div>
+          <div>
+            <p>তুমি কি সেখানে যেতে অনিচ্ছুক?</p>
+            <p>Are you indisposed to go there?</p>
+          </div>
+          <div>
+            <p>আমি জানি সে তোমাকে সাহায্য করতে অনিচ্ছুক/নারাজ।</p>
+            <p>I know that he is averse to helping you.</p>
+          </div>
+          <div>
+            <p>আমি বুঝিনা কেন তুমি মনোযোগ সহকারে পড়তে অনিচ্ছিক/নারাজ।</p>
+            <p>
+              I don&apos;t understand why you are disinclined to read
+              attentively.
+            </p>
+          </div>
+        </div>
+        <div className="flex flex-col gap-4">
+          <p className="text-blue-500">
             কোনকিছু করার সম্ভাবনা আছে/নেই বোঝাতে be(am, is are...)
             likely/unlikely to + v1 ব্যবহৃত হয়।
           </p>
