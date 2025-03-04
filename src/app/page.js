@@ -40,6 +40,14 @@ export default function Home() {
           </li>
           <li>
             <Link
+              href="/causative/let"
+              className="nav-link hover:text-orange-500"
+            >
+              Causative Verbs
+            </Link>
+          </li>
+          <li>
+            <Link
               href="/passive/basic"
               className="nav-link hover:text-orange-500"
             >
@@ -48,7 +56,7 @@ export default function Home() {
           </li>
           <li>
             <Link href="/to/about" className="nav-link hover:text-orange-500">
-              (Be + Sth) + To
+              (Be + Something) + To / Of
             </Link>
           </li>
         </ul>

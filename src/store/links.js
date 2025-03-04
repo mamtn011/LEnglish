@@ -14,6 +14,8 @@ export const modalNavItems = [
 export const passiveNavItems = [
   { path: "/passive/basic", label: "Basic" },
   { path: "/passive/present", label: "Present Tense" },
+  { path: "/passive/past", label: "Past Tense" },
+  { path: "/passive/future", label: "Future Tense" },
 ];
 
 export const toNavItems = [
@@ -22,7 +24,12 @@ export const toNavItems = [
   { path: "/to/going", label: "Going, Willing, Likely" },
   { path: "/to/interested", label: "Interested, Determined, Enthusiastic" },
   { path: "/to/sorry", label: "Sorry, Happy, Shocked, Excited" },
-  { path: "/to/set", label: "Set, Afraid, Feel" },
+  { path: "/to/set", label: "Set, Afraid of, Feel" },
   { path: "/to/lookforward", label: "Look forward, Sure of, Fond of" },
   { path: "/to/free", label: "Free, Overjoyed, Heartened" },
+];
+
+export const causativeNavItems = [
+  { path: "/causative/let", label: "Let, Allow, Permit" },
+  { path: "/causative/make", label: "Make, Get, Have" },
 ];

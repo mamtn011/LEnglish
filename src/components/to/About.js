@@ -60,7 +60,7 @@ const About = () => {
           </p>
           <div>
             <p>আমার এখনো বইটি পড়া বাকী/হয়নি।</p>
-            <p>I am yet to reat the book.</p>
+            <p>I am yet to read the book.</p>
           </div>
           <div>
             <p>আমার এখনো বরিশাল যাওয়া হয়নি।</p>
