@@ -6,7 +6,7 @@ export default function Home() {
     <main className="w-full py-28">
       <div className="max-w-7xl mx-auto px-4">
         <h1 className="text-2xl font-bold text-center mb-8">
-          Personal Notes For Learning English
+          Personal Note For Learning English by Mobin
         </h1>
         <ul className="w-full flex flex-col items-center justify-center gap-2">
           <li>
