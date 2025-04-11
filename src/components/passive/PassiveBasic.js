@@ -43,6 +43,10 @@ const PassiveBasic = () => {
           <p className="text-blue-500">
             <span className="text-blue-500">All Continuous:</span> Subject +
             auxiliary + being + v3 ... <br />
+            <strong className="text-red-500">NB: </strong>
+            <span className="text-red-500">
+              Perfect Continuous Tense is not normally used in passive voice.
+            </span>
           </p>
           <div>
             <p>এখানে ক্রিকেট খেলা হচ্ছে।</p>
