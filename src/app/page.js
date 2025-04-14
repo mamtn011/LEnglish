@@ -51,7 +51,7 @@ export default function Home() {
               href="/passive/basic"
               className="nav-link hover:text-orange-500"
             >
-              Passive
+              Passive (Basic)
             </Link>
           </li>
           <li>

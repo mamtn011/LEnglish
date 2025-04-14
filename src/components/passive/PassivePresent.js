@@ -12,7 +12,7 @@ const PassivePresent = () => {
               <span className="text-blue-500">Present Continuous:</span> Subject
               + am/is/are + being + v3 ... <br />
               <span className="text-blue-500">Present Perfect:</span> Subject +
-              ( have/has + been ) + v3 ...
+              have/has + been + v3 ...
               <br />
               <strong className="text-red-500">NB: </strong>
               <span className="text-red-500">
